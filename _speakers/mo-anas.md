@@ -4,5 +4,5 @@ first_name: Mo
 last_name: Anas
 links:
   - name: Mo Anas
-    absolute_url: https://github.com
+    absolute_url: https://www.linkedin.com/in/dranas
 ---
