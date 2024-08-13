@@ -2,7 +2,7 @@
 name: Kuppelraum
 ---
 
-<img src="/2023/assets/images/kuppelraum.jpg" alt="Kuppelraum" width="400"/>
+<img src="/bias23/assets/images/kuppelraum.jpg" alt="Kuppelraum" width="400"/>
 
 Our symposium is hosted at the Kuppelraum (The Cupola Room) at the Hauptgebäude (The Main Building) at the University of Bern.
 
