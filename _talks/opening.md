@@ -7,4 +7,4 @@ categories:
   - Information
 ---
 
-TBD - announcements shortly.
+This time is reserved for registration and checking in. 

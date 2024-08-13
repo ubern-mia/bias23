@@ -8,4 +8,4 @@ categories:
   - Information
 ---
 
-TBD - announcements shortly.
+This session is the finale, where prizes for the best posters are announced, and some thanks are said to the guests, hosts, and everyone involved.

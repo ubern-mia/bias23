@@ -7,4 +7,4 @@ categories:
   - Information
 ---
 
-TBD - announcements shortly.
+This is a quick introduction to the symposium itself, some ground rules, and presenting the agenda for the day along with sharing some book keeping information.

@@ -7,4 +7,4 @@ categories:
   - Student
 ---
 
-TBD - announcements shortly.
+This session featured 8 poster presentations of 4 minutes each. 

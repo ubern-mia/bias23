@@ -20,13 +20,13 @@ Although the "AI model" boom in recent years has generated promising results in 
 
 ## Contact the Organizers
 
-To contact the organizers, please reach out to [Amith](/2023/speakers/amith_kamath), [Yannick](/2023/speakers/yannick_suter) or [Dr. Mauricio Reyes](/2023/speakers/mauricio_reyes).
+To contact the organizers, please reach out to [Amith](/bias23/speakers/amith_kamath), [Yannick](/bias23/speakers/yannick_suter) or [Dr. Mauricio Reyes](/bias23/speakers/mauricio_reyes).
 
 ## Sponsors
 
 We would like to gratefully acknowledge our sponsors without whom this event would not be possible.
 
-<img src="/2023/assets/images/mvub_logo.png" alt="MVUB" width="200"/> <img src="/2023/assets/images/ccmt_logo.jpeg" alt="CCMT" width="200"/> <img src="/2023/assets/images/mathworks-logo.png" alt="MathWorks" width="200"/> <img src="/2023/assets/images/varian-logo.jpg" alt="MVUB" width="200"/> 
+<img src="/bias23/assets/images/mvub_logo.png" alt="MVUB" width="200"/> <img src="/bias23/assets/images/ccmt_logo.jpeg" alt="CCMT" width="200"/> <img src="/bias23/assets/images/mathworks-logo.png" alt="MathWorks" width="200"/> <img src="/bias23/assets/images/varian-logo.jpg" alt="MVUB" width="200"/> 
 
 We acknowledge the MICCAI Society for endorsing this event as well.
-<img src="/2023/assets/images/MICCAI_logo.jpeg" alt="MICCAI" width="200"/>
+<img src="/bias23/assets/images/MICCAI_logo.jpeg" alt="MICCAI" width="200"/>
